@@ -48,7 +48,6 @@ I treat AI as a product problem first and a model problem second. The goal is ne
 Open to conversations about agentic commerce, custom AI-native workflow builds, and AI product strategy.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sujitkmohanty)
-- 🌐 [Northstack](https://YOUR-SITE)
 - 📍 Seattle, WA
 
 ---
