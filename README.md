@@ -12,17 +12,22 @@ I help small and medium businesses scale by embedding AI into everyday workflows
 
 | Project | What it demonstrates |
 | --- | --- |
-| **[Synergy Socials Content Calendar](https://github.com/sujit100/synergy-socials-content-calendar)** | AI-powered content planning for Instagram & TikTok — <!-- add: who it's for, what it automates, outcome --> |
-| **[Northstar AI](https://github.com/sujit100/northstar-ai)** | Consulting site built with Astro + Tailwind — <!-- add: what the site showcases / converts --> |
-| **[E-Com Trending](https://github.com/sujit100/e-com-trending)** | <!-- one line: what problem it solves for e-commerce sellers, and how --> |
-| **[TFR Project](https://github.com/sujit100/TFR-Project)** | <!-- one line: what it is and what it demonstrates --> |
+| **Retrace** | <!-- add: one line on what Retrace does, and a link if the repo is public --> |
+| **CounselDraft** 🔒 | Precedent-grounded legal document generation for a small law practice — drafts grounded in the firm's own prior work. |
+| **Ruleo** 🔒 | A TikTok Shop–native operating layer above Seller Center covering order ops, margin visibility, and recovery. |
+| **[Northstar AI](https://github.com/sujit100/northstar-ai)** | AI consulting site built with Astro + Tailwind. |
+| **Northstack Website** 🔒 | Marketing site for Northstack LLC — AI-native software for e-commerce brands plus hands-on seller consulting. |
+| **Document Intake Portal** 🔒 | Secure intake for survey plats, deeds, and title records with uploads to Azure Blob Storage. |
+
+<sub>🔒 Private repo — walkthrough or demo available on request.</sub>
 
 ---
 
-## Other Experiments
+## Other Builds
 
-- **[AI Agent Apps](https://github.com/sujit100/multiuple-ai-agent-apps)** — Hands-on exploration of LLM agent and RAG patterns across OpenAI, Anthropic, Gemini, and open-source models (forked from awesome-llm-apps).
-- **[Shopify Flow Code Examples](https://github.com/sujit100/shopify-flow-code-examples)** — Working with Shopify Flow's Run Code action for store automation.
+- **[E-Com Trending](https://github.com/sujit100/e-com-trending)** — Tracks social-media sentiment on e-commerce products to surface customer pain points and competitor insights.
+- **[TFR Newsletter Builder](https://github.com/sujit100/TFR-Project)** — Automated workflow that scrapes and filters content to produce newsletter issues faster.
+- **[Synergy Socials Content Calendar](https://github.com/sujit100/synergy-socials-content-calendar)** — AI-powered content calendar for Instagram & TikTok.
 
 ---
 
@@ -30,9 +35,9 @@ I help small and medium businesses scale by embedding AI into everyday workflows
 
 I start from an operator's pain point, not the model. Ship the smallest useful version, put it in front of a real user, and measure the time or money it saves.
 
-> Find the workflow that hurts.
-> Automate the boring 80%.
-> Keep a human in the loop where it matters.
+> Find the workflow that hurts.  
+> Automate the boring 80%.  
+> Keep a human in the loop where it matters.  
 > Measure the hours saved.
 
 ---
