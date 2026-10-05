@@ -12,14 +12,14 @@ I turn messy, high-volume business operations into AI-native systems that actual
 
 | Project | What it demonstrates |
 | --- | --- |
-| **Retrace** | Massive archived-document processing — multimodal models extract and structure scanned records into a RAG-enabled database for grounded search and Q&A at archive scale. |
 | **CounselDraft** 🔒 | Precedent-grounded legal document generation for a small law practice — drafts grounded in the firm's own prior work. |
 | **Ruleo** 🔒 | A TikTok Shop–native operating layer above Seller Center covering order ops, margin visibility, and recovery. |
 | **[Northstar AI](https://github.com/sujit100/northstar-ai)** | AI consulting site built with Astro + Tailwind. |
 | **Northstack Website** 🔒 | Marketing site for Northstack LLC — AI-native software for e-commerce brands plus hands-on seller consulting. |
 | **Document Intake Portal** 🔒 | Secure intake for survey plats, deeds, and title records with uploads to Azure Blob Storage. |
+| **Retrace** 🔒 🚧 | Massive archived-document processing — multimodal models extract and structure scanned records into a RAG-enabled database for grounded search and Q&A at archive scale. |
 
-<sub>🔒 Private repo — walkthrough or demo available on request.</sub>
+<sub>🔒 Private repo — walkthrough or demo available on request · 🚧 In active development</sub>
 
 ---
 
@@ -47,7 +47,7 @@ I treat AI as a product problem first and a model problem second. The goal is ne
 
 Open to conversations about agentic commerce, custom AI-native workflow builds, and AI product strategy.
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sujitkmohanty)
 - 🌐 [Northstack](https://YOUR-SITE)
 - 📍 Seattle, WA
 
