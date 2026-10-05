@@ -1,10 +1,10 @@
 # Hi, I'm Sujit
 
-**Senior Program Manager · AI Builder · Founder, Northstack LLC**
+**AI Product Strategist · Founder, Northstack LLC**
 
-I help small and medium businesses scale by embedding AI into everyday workflows — turning scrappy ideas into practical tools that save real hours. Background across Strategy & Ops, Product Ops, and Marketplace/E-Commerce (TikTok, Amazon, Chewy), with an engineering foundation.
+I turn messy, high-volume business operations into AI-native systems that actually run. My work sits where product strategy meets hands-on building: finding the workflows where agents create real leverage, designing how people and AI share the work, and shipping production tools that businesses rely on every day. Most of it lives in agentic commerce and document-heavy operations. Engineering background, with years leading strategy, product operations, and marketplace programs at scale.
 
-**GenAI · AI Agents · Workflow Automation · E-Commerce · SMB Operations**
+**Agentic Commerce · AI Agents · Multimodal RAG · Workflow Automation · E-Commerce Ops**
 
 ---
 
@@ -12,7 +12,7 @@ I help small and medium businesses scale by embedding AI into everyday workflows
 
 | Project | What it demonstrates |
 | --- | --- |
-| **Retrace** | <!-- add: one line on what Retrace does, and a link if the repo is public --> |
+| **Retrace** | Massive archived-document processing — multimodal models extract and structure scanned records into a RAG-enabled database for grounded search and Q&A at archive scale. |
 | **CounselDraft** 🔒 | Precedent-grounded legal document generation for a small law practice — drafts grounded in the firm's own prior work. |
 | **Ruleo** 🔒 | A TikTok Shop–native operating layer above Seller Center covering order ops, margin visibility, and recovery. |
 | **[Northstar AI](https://github.com/sujit100/northstar-ai)** | AI consulting site built with Astro + Tailwind. |
@@ -33,18 +33,19 @@ I help small and medium businesses scale by embedding AI into everyday workflows
 
 ## How I Build
 
-I start from an operator's pain point, not the model. Ship the smallest useful version, put it in front of a real user, and measure the time or money it saves.
+I treat AI as a product problem first and a model problem second. The goal is never a demo — it's a workflow that changes how the work gets done.
 
-> Find the workflow that hurts.  
-> Automate the boring 80%.  
-> Keep a human in the loop where it matters.  
-> Measure the hours saved.
+- **Map the work before the model.** Find where time, money, or accuracy is leaking, and start there.
+- **Design the human–AI handoff.** Decide what agents own, what people approve, and where judgment stays human.
+- **Ground every answer.** Outputs trace back to real data, documents, or precedent — no unverifiable magic.
+- **Define "good" up front.** Set quality bars and failure modes before anything scales.
+- **Ship small, measure, iterate.** Release into real workflows and judge success by hours saved and errors avoided.
 
 ---
 
 ## Let's Connect
 
-Open to conversations about AI adoption for SMBs, program/product operations roles, and builder collaborations.
+Open to conversations about agentic commerce, custom AI-native workflow builds, and AI product strategy.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE)
 - 🌐 [Northstack](https://YOUR-SITE)
